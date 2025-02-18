@@ -2,8 +2,8 @@ export const person = {
   firstname: "Frederick",
   lastname: "Roegiers",
   location: {
-    city: "Ghent",
-    country: "Belgium",
+  city: "Ghent",
+  country: "Belgium",
   },
 };
 
